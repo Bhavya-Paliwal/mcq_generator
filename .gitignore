@@ -1,0 +1,9 @@
+.vs/ 
+bin/ 
+obj/ 
+*.db 
+*.mdf 
+*.ldf 
+*.user 
+*.suo 
+*.env 
